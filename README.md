@@ -1,4 +1,4 @@
-# customer_behavior_analysis
+# Customer Behavior Analysis
 
 Project Overview
 This project focuses on analyzing customer shopping behavior using transactional data containing around 3,900 records and 18 features. The objective is to understand customer spending patterns, product preferences, subscription behavior, and key business trends. The project follows a complete data analytics pipeline including Python-based data processing, MySQL analysis, Power BI visualization, and final reporting to support data-driven decision-making.
